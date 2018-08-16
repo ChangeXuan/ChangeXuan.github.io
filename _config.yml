@@ -1,7 +1,7 @@
 # Site settings
 title: Blog
 SEOTitle: 百啭的博客 | Xuan Blog
-header-img: img/homeBG.jpg
+# header-img: img/homeBG.jpg
 email: zeroSwift@163.com
 description: "Every failure is leading towards success."
 keyword: "Xuan, Xuan Blog, 百啭的博客, qinzixuan, 覃子轩, iOS, Python"

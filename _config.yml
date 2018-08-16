@@ -1,29 +1,29 @@
 # Site settings
 title: Xuan Blog
-SEOTitle: 百啭的个人博客 | Xuan Blog
+SEOTitle: 百啭的博客 | Xuan Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: zeroSwift@163.com
 description: "Every failure is leading towards success."
 keyword: "Xuan, Xuan Blog, 百啭的博客, qinzixuan, 覃子轩, iOS, Python"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://changeXuan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ChangeXuan/ChangeXuan.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentlef.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/mySelfImg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# # weibo_username:     qiubaiying
+# zhihu_username:     qiubaiying
+# github_username:    qiubaiying
+# facebook_username:  baiying.qiu.7
+# jianshu_username:   e71990ada2fd
+# #twitter_username:   qiubaiying
 
 
 
